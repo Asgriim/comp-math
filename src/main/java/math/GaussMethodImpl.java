@@ -21,7 +21,7 @@ public class GaussMethodImpl implements GaussMethod{
     }
 
     @Override
-    public void replaceVariable(Matrix matrix, Integer index) {
+    public void straightWay(Matrix matrix, Integer index) {
         List<Double> initialRow = matrix.getRow(index);
         Double mainElem = initialRow.get(index);
         double modifier = 1D;
@@ -84,7 +84,7 @@ public class GaussMethodImpl implements GaussMethod{
                 sign *= -1;
             }
             det *= matrix.getElem(i,i);
-            replaceVariable(matrix,i);
+            straightWay(matrix,i);
         }
         det *= matrix.getElem(matrix.getHeight() - 1,matrix.getWidth() - 2);
 
