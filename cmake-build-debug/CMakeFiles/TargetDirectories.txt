@@ -1,0 +1,3 @@
+/home/asgrim/CLionProjects/comp-math3/cmake-build-debug/CMakeFiles/comp_math3.dir
+/home/asgrim/CLionProjects/comp-math3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asgrim/CLionProjects/comp-math3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+1	328	1681309015001912217	CMakeFiles/comp_math3.dir/Integral.cpp.o	2dc7aa67215fc319
+1	738	1681288671298781773	CMakeFiles/comp_math3.dir/main.cpp.o	23f760a3f4f5db33
+2	218	1681243823245656296	CMakeFiles/comp_math3.dir/funcs.cpp.o	335d077471c24be6
+1	327	1681309186735075193	CMakeFiles/comp_math3.dir/methods.cpp.o	a83a91f8beb5d64b
+327	426	1681309186835078186	comp_math3	aab6e3a75774f3ae
